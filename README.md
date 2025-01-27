@@ -1,4 +1,4 @@
-# VoiceControl Python Projects
+# Voice Control Python Projects
 
 ### 1. **Text-to-Audio & Audio-to-Text with NLP (Text_to_audio___audio_to_text.ipynb):**
   - Employ cutting-edge libraries like Whisper by OpenAI and Deep Learning networks.
