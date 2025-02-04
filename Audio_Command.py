@@ -1,4 +1,4 @@
-# import section - you can run the requiremets.txt (pip istall -r requiremets.txt in your terminal)
+# import section - you can run the requiremets.txt (pip istall -r requirements.txt in your terminal)
 import speech_recognition as sr
 from gtts import gTTS
 import os
