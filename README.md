@@ -12,3 +12,8 @@
    - Manages dependencies with requirements.txt: This file lists all the necessary libraries for running the script.
 
 This project equips you with the tools to build interactive voice-driven applications in Python, streamlining your workflow and enhancing accessibility.
+
+### Requirements
+```
+pip install -r requirements.txt
+```
